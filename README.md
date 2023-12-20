@@ -29,3 +29,6 @@ Findings provided valuable insights into user preferences, popular genres, and t
 + Pandas
 + NumPy
 + Plotly
+
+## Live Demo
+https://netflix-data-analysis.vercel.app/
